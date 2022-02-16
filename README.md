@@ -1,1 +1,3 @@
 # instyaf
+
+Django project 
